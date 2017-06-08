@@ -1,0 +1,4 @@
+#Thu Jun 08 16:08:21 BRT 2017
+base.0=/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

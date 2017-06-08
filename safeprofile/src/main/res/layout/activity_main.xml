@@ -1,0 +1,65 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:columnCount="4"
+    android:orientation="horizontal"
+    android:rowCount="8" >
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:src="@drawable/ic_safeprofile"
+        android:layout_gravity="fill_horizontal"
+        android:layout_columnSpan="4"/>
+
+    <EditText
+        android:id="@+id/addressEditText"
+        android:layout_columnSpan="4"
+        android:layout_gravity="fill_horizontal"
+        android:hint="Server ip address"
+        android:text="douglasgouveia.ddns.net" />
+
+    <EditText
+        android:id="@+id/portEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_columnSpan="4"
+        android:layout_gravity="fill_horizontal"
+        android:hint="Server port number"
+        android:text="8080" />
+
+    <ImageButton
+        android:id="@+id/btnRpm"
+        android:background="@android:color/background_light"
+        android:src="@drawable/rpm" />
+
+    <ImageButton
+        android:id="@+id/btnSpeed"
+        android:background="@android:color/background_light"
+        android:src="@drawable/speed" />
+
+    <ImageButton
+        android:id="@+id/btnFuel"
+        android:background="@android:color/background_light"
+        android:src="@drawable/fuel"/>
+
+    <ImageButton
+        android:id="@+id/btnVolts"
+        android:background="@android:color/background_light"
+        android:src="@drawable/volts" />
+
+    <TextView
+        android:id="@+id/responseTextView"
+        android:layout_columnSpan="4"
+        android:layout_gravity="fill_horizontal"
+        android:fontFamily="sans-serif"
+        android:gravity="center_horizontal"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:typeface="normal" />
+
+    <Button
+        android:id="@+id/clearButton"
+        android:layout_columnSpan="4"
+        android:layout_gravity="fill_horizontal"
+        android:text="Apagar" />
+</GridLayout>

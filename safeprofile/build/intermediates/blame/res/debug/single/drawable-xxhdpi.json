@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/drawable-xxhdpi/safeprofile.png",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/drawable-xxhdpi/safeprofile.png"
+    },
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/drawable-xxhdpi/accel.png",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/drawable-xxhdpi/accel.png"
+    },
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/drawable-xxhdpi/fuel.png",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/drawable-xxhdpi/fuel.png"
+    },
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/drawable-xxhdpi/throttle.png",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/drawable-xxhdpi/throttle.png"
+    },
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/drawable-xxhdpi/enginewatertemp.png",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/drawable-xxhdpi/enginewatertemp.png"
+    },
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/drawable-xxhdpi/rpm.png",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/drawable-xxhdpi/rpm.png"
+    },
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/drawable-xxhdpi/speed.png",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/drawable-xxhdpi/speed.png"
+    },
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/drawable-xxhdpi/volts.png",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/drawable-xxhdpi/volts.png"
+    },
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_safeprofile.png",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/drawable-xxhdpi/ic_safeprofile.png"
+    },
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/drawable-xxhdpi/enginetemp.png",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/drawable-xxhdpi/enginetemp.png"
+    }
+]

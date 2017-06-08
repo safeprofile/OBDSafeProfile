@@ -1,0 +1,7 @@
+#Thu Jun 08 16:24:30 BRT 2017
+base.0=/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0c87c0fc952b08badd1630b60402810c3cae1483
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2e1a39c2bd13708b5ca3aeda0779f608680807f8/classes.dex
+base.1=/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2e1a39c2bd13708b5ca3aeda0779f608680807f8
+file.0=/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0c87c0fc952b08badd1630b60402810c3cae1483/classes.dex

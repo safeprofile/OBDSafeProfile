@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/douglasgouveia/Documents/SafeProfile/Android/OBDSafeProfile/safeprofile/src/main/res/layout/activity_main.xml"
+    }
+]
